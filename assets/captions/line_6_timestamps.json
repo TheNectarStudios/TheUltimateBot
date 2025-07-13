@@ -1,54 +1,49 @@
 {
   "words": [
     {
-      "word": "Could",
+      "word": "Guts",
       "start": 0.0,
-      "end": 0.431
+      "end": 0.432
     },
     {
-      "word": "John",
-      "start": 0.431,
-      "end": 0.862
+      "word": "vs",
+      "start": 0.432,
+      "end": 0.864
     },
     {
-      "word": "Cena's",
-      "start": 0.862,
-      "end": 1.293
+      "word": "Putin:",
+      "start": 0.864,
+      "end": 1.297
     },
     {
-      "word": "power",
-      "start": 1.293,
-      "end": 1.724
+      "word": "Would",
+      "start": 1.297,
+      "end": 1.729
     },
     {
-      "word": "rival",
-      "start": 1.724,
-      "end": 2.155
+      "word": "Berserk",
+      "start": 1.729,
+      "end": 2.161
     },
     {
-      "word": "Goku's",
-      "start": 2.155,
-      "end": 2.586
+      "word": "Slayer",
+      "start": 2.161,
+      "end": 2.593
     },
     {
-      "word": "Ultra",
-      "start": 2.586,
-      "end": 3.017
+      "word": "leave",
+      "start": 2.593,
+      "end": 3.026
     },
     {
-      "word": "Instinct?",
-      "start": 3.017,
-      "end": 3.448
+      "word": "any",
+      "start": 3.026,
+      "end": 3.458
     },
     {
-      "word": "That's",
-      "start": 3.448,
-      "end": 3.879
-    },
-    {
-      "word": "debateable!",
-      "start": 3.879,
-      "end": 4.31
+      "word": "scars?",
+      "start": 3.458,
+      "end": 3.89
     }
   ]
 }

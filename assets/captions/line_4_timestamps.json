@@ -3,47 +3,67 @@
     {
       "word": "Imagine",
       "start": 0.0,
-      "end": 0.386
+      "end": 0.438
     },
     {
       "word": "if",
-      "start": 0.386,
-      "end": 0.771
+      "start": 0.438,
+      "end": 0.875
     },
     {
-      "word": "John",
-      "start": 0.771,
-      "end": 1.157
+      "word": "Hiruzen",
+      "start": 0.875,
+      "end": 1.313
     },
     {
-      "word": "Cena",
-      "start": 1.157,
-      "end": 1.542
+      "word": "Sarutobi",
+      "start": 1.313,
+      "end": 1.751
     },
     {
-      "word": "became",
-      "start": 1.542,
-      "end": 1.928
+      "word": "negotiated",
+      "start": 1.751,
+      "end": 2.188
     },
     {
-      "word": "an",
-      "start": 1.928,
-      "end": 2.313
+      "word": "with",
+      "start": 2.188,
+      "end": 2.626
     },
     {
-      "word": "Assassin's",
-      "start": 2.313,
-      "end": 2.699
+      "word": "Putin",
+      "start": 2.626,
+      "end": 3.064
     },
     {
-      "word": "Creed's",
-      "start": 2.699,
-      "end": 3.084
+      "word": "instead",
+      "start": 3.064,
+      "end": 3.502
     },
     {
-      "word": "Assassin!",
-      "start": 3.084,
-      "end": 3.47
+      "word": "of",
+      "start": 3.502,
+      "end": 3.939
+    },
+    {
+      "word": "war.",
+      "start": 3.939,
+      "end": 4.377
+    },
+    {
+      "word": "World",
+      "start": 4.377,
+      "end": 4.815
+    },
+    {
+      "word": "peace",
+      "start": 4.815,
+      "end": 5.252
+    },
+    {
+      "word": "achieved?",
+      "start": 5.252,
+      "end": 5.69
     }
   ]
 }

@@ -1,74 +1,64 @@
 {
   "words": [
     {
-      "word": "John",
+      "word": "Vegeta",
       "start": 0.0,
-      "end": 0.359
+      "end": 0.32
     },
     {
-      "word": "Cena,",
-      "start": 0.359,
-      "end": 0.717
+      "word": "would",
+      "start": 0.32,
+      "end": 0.64
+    },
+    {
+      "word": "see",
+      "start": 0.64,
+      "end": 0.96
+    },
+    {
+      "word": "Putin",
+      "start": 0.96,
+      "end": 1.28
     },
     {
       "word": "as",
-      "start": 0.717,
-      "end": 1.076
+      "start": 1.28,
+      "end": 1.6
     },
     {
       "word": "a",
-      "start": 1.076,
-      "end": 1.434
+      "start": 1.6,
+      "end": 1.92
     },
     {
-      "word": "Dragon",
-      "start": 1.434,
-      "end": 1.793
+      "word": "mere",
+      "start": 1.92,
+      "end": 2.24
     },
     {
-      "word": "Ball",
-      "start": 1.793,
-      "end": 2.151
+      "word": "speck",
+      "start": 2.24,
+      "end": 2.56
     },
     {
-      "word": "Z's",
-      "start": 2.151,
-      "end": 2.51
+      "word": "of",
+      "start": 2.56,
+      "end": 2.88
     },
     {
-      "word": "Fusion",
-      "start": 2.51,
-      "end": 2.869
+      "word": "dust.",
+      "start": 2.88,
+      "end": 3.2
     },
     {
-      "word": "Dance",
-      "start": 2.869,
-      "end": 3.227
+      "word": "No",
+      "start": 3.2,
+      "end": 3.52
     },
     {
-      "word": "partner,",
-      "start": 3.227,
-      "end": 3.586
-    },
-    {
-      "word": "could",
-      "start": 3.586,
-      "end": 3.944
-    },
-    {
-      "word": "rival",
-      "start": 3.944,
-      "end": 4.303
-    },
-    {
-      "word": "any",
-      "start": 4.303,
-      "end": 4.661
-    },
-    {
-      "word": "Saiyan!",
-      "start": 4.661,
-      "end": 5.02
+      "word": "contest!",
+      "start": 3.52,
+      "end": 3.84
     }
   ]
 }

@@ -3,77 +3,77 @@
     {
       "word": "Hot",
       "start": 0.0,
-      "end": 0.312
+      "end": 0.339
     },
     {
       "word": "take:",
-      "start": 0.312,
-      "end": 0.624
+      "start": 0.339,
+      "end": 0.679
     },
     {
-      "word": "John",
-      "start": 0.624,
-      "end": 0.936
+      "word": "If",
+      "start": 0.679,
+      "end": 1.018
     },
     {
-      "word": "Cena",
-      "start": 0.936,
-      "end": 1.248
+      "word": "Goku",
+      "start": 1.018,
+      "end": 1.357
     },
     {
-      "word": "could",
-      "start": 1.248,
-      "end": 1.56
+      "word": "ran",
+      "start": 1.357,
+      "end": 1.697
     },
     {
-      "word": "take",
-      "start": 1.56,
-      "end": 1.872
+      "word": "for",
+      "start": 1.697,
+      "end": 2.036
     },
     {
-      "word": "out",
-      "start": 1.872,
-      "end": 2.184
+      "word": "President,",
+      "start": 2.036,
+      "end": 2.375
     },
     {
-      "word": "One",
-      "start": 2.184,
-      "end": 2.496
+      "word": "he'd",
+      "start": 2.375,
+      "end": 2.715
     },
     {
-      "word": "Punch",
-      "start": 2.496,
-      "end": 2.808
-    },
-    {
-      "word": "Man's",
-      "start": 2.808,
-      "end": 3.12
-    },
-    {
-      "word": "Saitama",
-      "start": 3.12,
-      "end": 3.432
-    },
-    {
-      "word": "in",
-      "start": 3.432,
-      "end": 3.744
+      "word": "have",
+      "start": 2.715,
+      "end": 3.054
     },
     {
       "word": "a",
-      "start": 3.744,
-      "end": 4.056
+      "start": 3.054,
+      "end": 3.393
     },
     {
-      "word": "wrestling",
-      "start": 4.056,
-      "end": 4.368
+      "word": "better",
+      "start": 3.393,
+      "end": 3.733
     },
     {
-      "word": "match!",
-      "start": 4.368,
-      "end": 4.68
+      "word": "approval",
+      "start": 3.733,
+      "end": 4.072
+    },
+    {
+      "word": "rating",
+      "start": 4.072,
+      "end": 4.411
+    },
+    {
+      "word": "than",
+      "start": 4.411,
+      "end": 4.751
+    },
+    {
+      "word": "Trump.",
+      "start": 4.751,
+      "end": 5.09
     }
   ]
 }

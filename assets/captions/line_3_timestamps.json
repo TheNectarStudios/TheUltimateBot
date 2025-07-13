@@ -3,52 +3,67 @@
     {
       "word": "What",
       "start": 0.0,
-      "end": 0.324
+      "end": 0.277
     },
     {
       "word": "if",
-      "start": 0.324,
-      "end": 0.648
+      "start": 0.277,
+      "end": 0.554
     },
     {
-      "word": "John",
-      "start": 0.648,
-      "end": 0.972
+      "word": "Trump",
+      "start": 0.554,
+      "end": 0.831
     },
     {
-      "word": "Cena",
-      "start": 0.972,
-      "end": 1.296
+      "word": "had",
+      "start": 0.831,
+      "end": 1.108
     },
     {
-      "word": "learned",
-      "start": 1.296,
-      "end": 1.62
+      "word": "a",
+      "start": 1.108,
+      "end": 1.385
     },
     {
-      "word": "the",
-      "start": 1.62,
-      "end": 1.944
+      "word": "Death",
+      "start": 1.385,
+      "end": 1.662
     },
     {
-      "word": "Dragon",
-      "start": 1.944,
-      "end": 2.268
+      "word": "Note?",
+      "start": 1.662,
+      "end": 1.938
     },
     {
-      "word": "Ball",
-      "start": 2.268,
-      "end": 2.592
+      "word": "Would",
+      "start": 1.938,
+      "end": 2.215
     },
     {
-      "word": "Z's",
-      "start": 2.592,
-      "end": 2.916
+      "word": "he",
+      "start": 2.215,
+      "end": 2.492
     },
     {
-      "word": "Kamehameha?",
-      "start": 2.916,
-      "end": 3.24
+      "word": "write",
+      "start": 2.492,
+      "end": 2.769
+    },
+    {
+      "word": "'America",
+      "start": 2.769,
+      "end": 3.046
+    },
+    {
+      "word": "Great",
+      "start": 3.046,
+      "end": 3.323
+    },
+    {
+      "word": "Again'?",
+      "start": 3.323,
+      "end": 3.6
     }
   ]
 }
