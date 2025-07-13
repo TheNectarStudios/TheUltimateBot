@@ -3,6 +3,7 @@
     {
       "word": "What",
       "start": 0.0,
+<<<<<<< HEAD
       "end": 0.277
     },
     {
@@ -64,6 +65,39 @@
       "word": "Again'?",
       "start": 3.323,
       "end": 3.6
+=======
+      "end": 0.377
+    },
+    {
+      "word": "if",
+      "start": 0.377,
+      "end": 0.754
+    },
+    {
+      "word": "Merlin",
+      "start": 0.754,
+      "end": 1.131
+    },
+    {
+      "word": "had",
+      "start": 1.131,
+      "end": 1.509
+    },
+    {
+      "word": "the",
+      "start": 1.509,
+      "end": 1.886
+    },
+    {
+      "word": "Commandments",
+      "start": 1.886,
+      "end": 2.263
+    },
+    {
+      "word": "powers?!",
+      "start": 2.263,
+      "end": 2.64
+>>>>>>> f28d2668e0f8e67159612aea73ed77da7978c936
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
   "words": [
     {
+<<<<<<< HEAD
       "word": "Vegeta",
       "start": 0.0,
       "end": 0.32
@@ -59,6 +60,71 @@
       "word": "contest!",
       "start": 3.52,
       "end": 3.84
+=======
+      "word": "Elizabeth's",
+      "start": 0.0,
+      "end": 0.303
+    },
+    {
+      "word": "love",
+      "start": 0.303,
+      "end": 0.606
+    },
+    {
+      "word": "for",
+      "start": 0.606,
+      "end": 0.909
+    },
+    {
+      "word": "Meliodas",
+      "start": 0.909,
+      "end": 1.212
+    },
+    {
+      "word": "is",
+      "start": 1.212,
+      "end": 1.515
+    },
+    {
+      "word": "stronger",
+      "start": 1.515,
+      "end": 1.818
+    },
+    {
+      "word": "than",
+      "start": 1.818,
+      "end": 2.122
+    },
+    {
+      "word": "his",
+      "start": 2.122,
+      "end": 2.425
+    },
+    {
+      "word": "love",
+      "start": 2.425,
+      "end": 2.728
+    },
+    {
+      "word": "for",
+      "start": 2.728,
+      "end": 3.031
+    },
+    {
+      "word": "a",
+      "start": 3.031,
+      "end": 3.334
+    },
+    {
+      "word": "good",
+      "start": 3.334,
+      "end": 3.637
+    },
+    {
+      "word": "pint.",
+      "start": 3.637,
+      "end": 3.94
+>>>>>>> f28d2668e0f8e67159612aea73ed77da7978c936
     }
   ]
 }

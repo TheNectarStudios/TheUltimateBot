@@ -3,6 +3,7 @@
     {
       "word": "Imagine",
       "start": 0.0,
+<<<<<<< HEAD
       "end": 0.438
     },
     {
@@ -64,6 +65,49 @@
       "word": "achieved?",
       "start": 5.252,
       "end": 5.69
+=======
+      "end": 0.372
+    },
+    {
+      "word": "if",
+      "start": 0.372,
+      "end": 0.744
+    },
+    {
+      "word": "Ban",
+      "start": 0.744,
+      "end": 1.117
+    },
+    {
+      "word": "had",
+      "start": 1.117,
+      "end": 1.489
+    },
+    {
+      "word": "Diane's",
+      "start": 1.489,
+      "end": 1.861
+    },
+    {
+      "word": "strength",
+      "start": 1.861,
+      "end": 2.233
+    },
+    {
+      "word": "and",
+      "start": 2.233,
+      "end": 2.606
+    },
+    {
+      "word": "Elaine's",
+      "start": 2.606,
+      "end": 2.978
+    },
+    {
+      "word": "beauty.",
+      "start": 2.978,
+      "end": 3.35
+>>>>>>> f28d2668e0f8e67159612aea73ed77da7978c936
     }
   ]
 }
